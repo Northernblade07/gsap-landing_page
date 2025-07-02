@@ -33,7 +33,7 @@ const About = () => {
         },'-=0.5')
     },[])
   return (
-    <div id='about' >
+    <div id='about'  className=''>
         <div className='mb-16 md:px-0 px-5'>
             <div className='content'>
                 <div className='md:col-span-8'>
